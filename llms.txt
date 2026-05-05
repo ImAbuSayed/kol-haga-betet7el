@@ -1,6 +1,6 @@
 # Kol Haga Betet7el
 
-![Kol Haga Betet7el feature image](https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/songs/kol-haga-betet7el/feature/20260425114004-Kol-Haga-Betet7el---2.png)
+![Kol Haga Betet7el feature image](https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/songs/kol-haga-betet7el/feature/20260505140316-Kol-Haga-Betet7el.webp)
 
 ---
 
@@ -16,6 +16,7 @@
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
 | Lyric Writing Date | April 20, 2026 |
 | Song Creation Date | April 25, 2026 |
+| Official Release Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kol-haga-betet7el/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -31,6 +32,12 @@
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
+
+---
+
+## Song Links
+
+- [YouTube](https://www.youtube.com/watch?v=D4FLxGVwadg)
 
 ---
 
