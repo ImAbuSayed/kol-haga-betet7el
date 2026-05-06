@@ -19,7 +19,7 @@
 | Official Release Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kol-haga-betet7el/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Kol Haga Betet7el](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=D4FLxGVwadg?https://imabusayed.github.io/kol-haga-betet7el/) |
+| Get License | [Get Permission to Use Kol Haga Betet7el](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=D4FLxGVwadg?https://imabusayed.github.io/kol-haga-betet7el/) |
 | Artist | Abu Sayed |
 
 ---
