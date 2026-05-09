@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kol Haga Betet7el
+
+This log tracks the cryptographic history and versioning for the song **Kol Haga Betet7el** (kol-haga-betet7el).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T16:17:36.210284 | `v1` | `35d443f60ab1bfaf99aca65e2ded6dad0864322c45c91e5647648f370003bdc8` | `0c89b75e5f40e8a6c5de052956e129a8bdc0c48c1e3dc6e47f10e679eacbc7c9` | `2026-05-09_kol-haga-betet7el-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
